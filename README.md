@@ -1,21 +1,21 @@
 # iot_lab_1
 micro_climate_monitoring
-Single hidden layer
+    Single hidden layer
 
-No dropout
+    No dropout
 
-Normalization inside model
+    Normalization inside model
 
-INT8 quantizable
+    INT8 quantizable
 
 Open Edge Impulse Studio
 
-Create project
-Impulse Design
+    Create project
+    Impulse Design
 
-  Input features: 4
+        Input features: 4
 
-Upload model
+        Upload model
 
 Deployment 
 
@@ -29,8 +29,8 @@ Deployment
 
 Arduino IDE
 
-Install ZIP library
+    Install ZIP library
 
-Select Arduino Nano 33 BLE
+    Select Arduino Nano 33 BLE
 
-Upload the inference sketch
+    Upload the inference sketch
